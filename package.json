@@ -1,0 +1,23 @@
+{
+  "name": "api-portfolio",
+  "version": "1.0.0",
+  "description": "API de portafolio personal",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/luciano393/api-portfolio.git"
+  },
+  "author": "Luciano Ibarra",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/luciano393/api-portfolio/issues"
+  },
+  "homepage": "https://github.com/luciano393/api-portfolio#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "imagekit": "^3.2.3"
+  }
+}
